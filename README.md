@@ -33,7 +33,7 @@ Here 2 of them are used: Populairy based and collaborative filtering based.
 
     1. The "Top 50 Books" is based on the populairty based system.
 
-    2. The "Recommendations" is based on the collaborative based system.
+    2. The "Recommendations" is based on the collaborative filtering based system.
 
 ---
 
